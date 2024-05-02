@@ -18,7 +18,7 @@ def get_transcript_text(video_url):
 def generate_blog_post(transcript_text, api_key):
     client = Groq(api_key=api_key)
     completion = client.chat.completions.create(
-        model="llama3-70b-8192",
+        model="mixtral-8x7b-32768",
         messages=[
             {
                 "role": "system",
