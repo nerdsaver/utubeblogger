@@ -34,7 +34,7 @@ def generate_blog_post(transcript_text, api_key):
             }
         ],
         temperature=0.85,
-        max_tokens=1350,
+        max_tokens=7350,
         top_p=1,
         stream=True,
         stop=None,
