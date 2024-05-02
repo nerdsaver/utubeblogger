@@ -2,3 +2,4 @@ streamlit
 pandas
 numpy
 youtube-transcript-api
+groq
