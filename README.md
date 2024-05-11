@@ -7,5 +7,5 @@ Current version is functional, but doesn't function as intended (original wasn't
 Eventual implementation of Self Discover Framework (see paper here: https://arxiv.org/abs/2402.03620)
 
 # Demo
-See demo at ytblogger.pkkid.lol 
+See demo at http://ytblogger.pkkid.lol 
 -It will redirect you to the streamlit app! 
